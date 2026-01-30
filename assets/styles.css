@@ -5,7 +5,12 @@
 .carousel-item {
     height: 60vh;
 }
-.carousel-inner img {
+.carousel-inner img, .card img {
      
     object-fit: contain !important;
 }
+
+.card-img-top {
+    height: 200px;
+}
+
