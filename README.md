@@ -6,3 +6,6 @@ Using bootstrap I have demonstrated the grid system, and used utility classes to
 Github Pages link:
 https://blaize9931.github.io/third-assignment-using-jquery-and-bootstrap/
 ***
+Basic set-up: 
+git clone https://github.com/Blaize9931/third-assignment-using-jquery-and-bootstrap.git
+into local "assignments" folder. 
