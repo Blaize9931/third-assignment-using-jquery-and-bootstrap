@@ -1,2 +1,8 @@
 # third-assignment-using-jquery-and-bootstrap
-In this third assignment I have been set the task of implementing bootstrap and jQuery widgets into one of our former websites or as discussed in the bootcamp a new one. I have opted for the latter. 
+Within the third assigment, I have been tasked with using Bootstrap version 4.5. Alongside this optionally, we can use JQuery widgets. 
+***
+Using bootstrap I have demonstrated the grid system, and used utility classes to limit the amount of CSS required, if any.
+***
+Github Pages link:
+https://blaize9931.github.io/third-assignment-using-jquery-and-bootstrap/
+***
