@@ -1,6 +1,4 @@
-* {
-    border: black solid 0.5px;
-}
+
 
 .carousel-item {
     height: 60vh;
@@ -12,5 +10,25 @@
 
 .card-img-top {
     height: 200px;
+}
+
+.carousel-caption {
+
+    opacity: .75;
+}
+
+@media (max-width: 765px) {
+
+    .display-4 {
+
+        font-size: 3rem;
+
+    }
+}
+
+@media (max-width: 550px) {
+    .display-4 {
+        font-size: 2.3rem
+    }
 }
 
